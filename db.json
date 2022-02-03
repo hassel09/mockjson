@@ -1,6 +1,13 @@
 {
-  "posts": [{"id":1,"name":"Lasse","email":"Lasse@gmail.com","dob":"1990-08-05","age":31}],
-  "comments":[{"id": 1, "body": "comment 1", "postId": 1}]
-  "profile": ["name": "Profile 1"
+  "posts": [{"id":1,"title": "Post 1", "description": "this is desc 1"},
+            {"id":2,"title": "Post 1", "description": "this is desc 1"},
+            {"id":3,"title": "Post 1", "description": "this is desc 1"}
+           ],
+  "comments":[{"id": 1, "body": "comment 1", "postId": 1},
+             {"id": 2, "body": "comment 1", "postId": 1}
+             ],
+  "profile": {
+  "name": "Profile 1"
+}
   
 }
