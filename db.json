@@ -1,9 +1,23 @@
 {
-  "ggg":[
+  "Glucose":[
   {
     "userId": 1,
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "title": "sunt aut faenderit",
+    "body": "quia et o"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est reru qui neque nisi nulla"
+  }
+],
+   "Basal":[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut faenderit",
     "body": "quia et o"
   },
   {
